@@ -18,6 +18,7 @@ Edit the `.env` file by specifying the database connection parameters, e.g:
 ```
 DB_HOST=localhost
 DB_PORT=3306
+DB_NAME=rps_db
 DB_USER=[username]
 DB_PASS=[password]
 ```
