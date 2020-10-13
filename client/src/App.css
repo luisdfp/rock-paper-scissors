@@ -1,0 +1,14 @@
+.app {
+  background: linear-gradient(to right, #2980b9, #2c3e50);
+  min-height: 100vh;
+  font-size: 18px;
+  color: white;
+  padding: 15px;
+}
+
+.game-navigation {
+  position: fixed;
+  top: 20px;
+  left: auto;
+  right: auto;
+}
